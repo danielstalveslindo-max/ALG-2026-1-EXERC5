@@ -16,5 +16,6 @@ int main() {
     }
     putchar('\n');
 
+	system("pause");
     return 0;
 }
